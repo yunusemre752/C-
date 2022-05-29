@@ -1,0 +1,6 @@
+C:\Users\YunusEmre\source\repos\productproject\productproject\obj\Debug\productproject.csproj.AssemblyReference.cache
+C:\Users\YunusEmre\source\repos\productproject\productproject\obj\Debug\productproject.csproj.SuggestedBindingRedirects.cache
+C:\Users\YunusEmre\source\repos\productproject\productproject\obj\Debug\MainWindow.g.cs
+C:\Users\YunusEmre\source\repos\productproject\productproject\obj\Debug\App.g.cs
+C:\Users\YunusEmre\source\repos\productproject\productproject\obj\Debug\productproject_MarkupCompile.cache
+C:\Users\YunusEmre\source\repos\productproject\productproject\obj\Debug\productproject_MarkupCompile.lref
